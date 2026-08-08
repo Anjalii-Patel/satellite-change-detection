@@ -1,0 +1,9 @@
+experiment,iou,f1,precision,recall,aggregation
+E0_NoChange,0.0000,0.0000,0.0000,0.0000,mean_per_scene
+E0_NoChange,0.0000,0.0000,0.0000,0.0000,pooled
+E1_RGBDiff,0.1156,0.1980,0.1294,0.6427,mean_per_scene
+E1_RGBDiff,0.1198,0.2140,0.1277,0.6598,pooled
+E1_NDVIDiff,0.0556,0.0987,0.2544,0.1204,mean_per_scene
+E1_NDVIDiff,0.0393,0.0757,0.0689,0.0839,pooled
+E1_CVA,0.1375,0.2230,0.4058,0.2018,mean_per_scene
+E1_CVA,0.1999,0.3332,0.4985,0.2503,pooled
