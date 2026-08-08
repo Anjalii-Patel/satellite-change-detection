@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+data/*
+!data/README.md
+*.tif
+*.tiff
+*.pt
+*.pth
+results/checkpoints/
