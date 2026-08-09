@@ -1,0 +1,32 @@
+{
+  "train": [
+    "abudhabi",
+    "aguasclaras",
+    "beihai",
+    "beirut",
+    "bercy",
+    "cupertino",
+    "hongkong",
+    "nantes",
+    "pisa",
+    "rennes",
+    "saclay_e"
+  ],
+  "val": [
+    "bordeaux",
+    "mumbai",
+    "paris"
+  ],
+  "test": [
+    "brasilia",
+    "chongqing",
+    "dubai",
+    "lasvegas",
+    "milano",
+    "montpellier",
+    "norcia",
+    "rio",
+    "saclay_w",
+    "valencia"
+  ]
+}
