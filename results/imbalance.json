@@ -1,0 +1,72 @@
+{
+  "abudhabi": {
+    "change_pixels": 603623,
+    "total_pixels": 627215,
+    "fraction": 96.23861036486691
+  },
+  "aguasclaras": {
+    "change_pixels": 243219,
+    "total_pixels": 247275,
+    "fraction": 98.35972095844707
+  },
+  "beihai": {
+    "change_pixels": 679026,
+    "total_pixels": 696344,
+    "fraction": 97.51301081074871
+  },
+  "beirut": {
+    "change_pixels": 1228682,
+    "total_pixels": 1262600,
+    "fraction": 97.31363852368129
+  },
+  "bercy": {
+    "change_pixels": 141154,
+    "total_pixels": 142200,
+    "fraction": 99.26441631504923
+  },
+  "bordeaux": {
+    "change_pixels": 235957,
+    "total_pixels": 238337,
+    "fraction": 99.00141396426069
+  },
+  "cupertino": {
+    "change_pixels": 780878,
+    "total_pixels": 799820,
+    "fraction": 97.63171713635568
+  },
+  "hongkong": {
+    "change_pixels": 361921,
+    "total_pixels": 375300,
+    "fraction": 96.43511857180923
+  },
+  "mumbai": {
+    "change_pixels": 465662,
+    "total_pixels": 477906,
+    "fraction": 97.43798989759492
+  },
+  "nantes": {
+    "change_pixels": 300355,
+    "total_pixels": 303804,
+    "fraction": 98.8647285750023
+  },
+  "paris": {
+    "change_pixels": 158662,
+    "total_pixels": 159120,
+    "fraction": 99.71216691804928
+  },
+  "pisa": {
+    "change_pixels": 548038,
+    "total_pixels": 557168,
+    "fraction": 98.3613560003446
+  },
+  "rennes": {
+    "change_pixels": 185925,
+    "total_pixels": 190857,
+    "fraction": 97.41586632924127
+  },
+  "saclay_e": {
+    "change_pixels": 435286,
+    "total_pixels": 439632,
+    "fraction": 99.01144593660152
+  }
+}
