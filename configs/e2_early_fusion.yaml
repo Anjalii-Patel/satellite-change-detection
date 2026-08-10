@@ -1,0 +1,19 @@
+experiment_name: "e2_early_fusion"
+seed: 42
+
+data:
+  size: 128
+  overlap: 64
+  oversample: true
+  batch_size: 32
+
+model:
+  type: "early_fusion"
+  in_channels: 8
+  features: [64, 128, 256, 512]
+
+train:
+  epochs: 50
+  lr: 0.001
+  patience: 10
+  bce_weight: 0.5
