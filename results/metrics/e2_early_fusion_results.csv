@@ -1,0 +1,4 @@
+experiment,seed,git_commit,iou,f1,precision,recall,aggregation
+e2_early_fusion,42,1ba23873122d80df5990392fcddcf9f74b933557,0.3552,0.5242,0.5790,0.4789,pooled
+e2_early_fusion,123,1ba23873122d80df5990392fcddcf9f74b933557,0.3224,0.4876,0.4840,0.4912,pooled
+e2_early_fusion,2026,1ba23873122d80df5990392fcddcf9f74b933557,0.3346,0.5015,0.4352,0.5916,pooled
